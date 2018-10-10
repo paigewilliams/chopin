@@ -1,0 +1,22 @@
+.img1 {
+  float: right;
+  margin: 10px;
+}
+
+.sidebar {
+  background: #F3B6A5;
+  border: 2px solid black;
+  padding: 4px;
+  margin: 40px;
+  width: 200px;
+  text-align: center;
+  float: center;
+}
+
+.date {
+  font-style: italic;
+  color: #916D63;
+}
+h1 {
+  text-align: center;
+}
